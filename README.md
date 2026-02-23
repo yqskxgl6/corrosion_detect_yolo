@@ -1,1 +1,9 @@
 金属外表锈蚀检测，有yolov11和yolov26两个版本，能够检测4种类型的锈蚀情况，直接使用原版yolo运行模型即可
+yolo11训练情况
+![image](yolo11_result/results.png)
+yolo11训练结果示例
+![image](yolo11_result/train_batch2.jpg)
+yolo26训练情况
+![image](yolo26_result/results.png)
+yolo26训练结果示例
+![image](yolo26_result/train_batch0.jpg)
